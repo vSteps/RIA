@@ -15,5 +15,10 @@ test('test the factorial of the number 4', () => {
   test('test the factorial of the number 0', () => {
     expect(factorial(0)).toBe(1);
   });
+
+  test('test the factorial of the number 2', () => {
+    expect(factorial(2)).toBe(2);
+  });
+
   
   
