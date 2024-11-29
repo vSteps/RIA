@@ -6,9 +6,15 @@ Implementações, atividades e exercícios da matéria de Aplicações com inter
 
 ## O que foi feito até agora:
 
-- [Documentação]
-- [Controle de Versão]
-- [Dev Container]
-- [Testes]
+- [X] Documentação
+- [X] Controle de Versão
+- [X] Dev Container
+- [X] Testes
+
+## O que falta ser feito:
+
+- [ ] CI/CD Pipeline (c/Docker)
+- [ ] Typescript
+- [ ] Angular
 
  
