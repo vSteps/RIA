@@ -10,10 +10,10 @@ Implementações, atividades e exercícios da matéria de Aplicações com inter
 - [X] Controle de Versão
 - [X] Dev Container
 - [X] Testes
+- [X] CI/CD Pipeline (c/Docker)
 
 ## O que falta ser feito:
 
-- [ ] CI/CD Pipeline (c/Docker)
 - [ ] Typescript
 - [ ] Angular
 
