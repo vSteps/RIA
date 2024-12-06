@@ -11,10 +11,10 @@ Implementações, atividades e exercícios da matéria de Aplicações com inter
 - [X] Dev Container
 - [X] Testes
 - [X] CI/CD Pipeline (c/Docker)
+- [X] Typescript
 
 ## O que falta ser feito:
 
-- [ ] Typescript
 - [ ] Angular
 
  
