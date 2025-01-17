@@ -12,6 +12,9 @@ Implementações, atividades e exercícios da matéria de Aplicações com inter
 - [X] Testes
 - [X] CI/CD Pipeline (c/Docker)
 - [X] Typescript
+    - [X] Funções de fatorial, soma e multiplicação
+    - [X] Manipulação de Arrays
+    - [X] Classes com Interface e Abstract
 
 ## O que falta ser feito:
 
